@@ -1,2 +1,2 @@
 # PT_CuN
-Programmierkurs von Computer und Netzwerke Studenten, der FS03V
+Programmierkurs von Computer und Netzwerk Studenten, der FS03V
